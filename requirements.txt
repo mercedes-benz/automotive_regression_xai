@@ -1,0 +1,16 @@
+data==0.4
+keras==3.6.0
+lime==0.2.0.1
+matplotlib==3.9.2
+numpy==1.26.0
+pandas==2.2.3
+PyALE==1.2.0
+ray[tune]==2.39.0
+scikit-learn==1.5.2
+seaborn==0.13.2
+shap==0.46.0
+tensorflow==2.18.0
+joblib==1.2.0
+fsspec==2023.6.0
+asammdf==8.0.1
+logger==1.4

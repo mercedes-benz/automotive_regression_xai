@@ -1,0 +1,2 @@
+[console_scripts]
+main = automotive_regression_xai.automative_xai:main

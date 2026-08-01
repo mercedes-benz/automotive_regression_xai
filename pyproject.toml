@@ -24,7 +24,7 @@ classifiers = [
 
 dependencies = [
   "data==0.4",
-  "keras==3.6.0",
+  "keras==3.9.0",
   "lime==0.2.0.1",
   "matplotlib==3.9.2",
   "numpy==1.26.0",

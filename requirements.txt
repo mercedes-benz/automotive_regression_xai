@@ -5,7 +5,7 @@ matplotlib==3.9.2
 numpy==1.26.0
 pandas==2.2.3
 PyALE==1.2.0
-ray[tune]==2.39.0
+ray[tune]==2.56.0
 scikit-learn==1.5.2
 seaborn==0.13.2
 shap==0.46.0
